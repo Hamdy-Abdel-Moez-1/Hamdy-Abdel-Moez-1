@@ -27,12 +27,12 @@
   Knowledge of **UML**, **system diagrams**, and experience working with **database management**.
 
 ### 🚀 Projects
-- 🔭 I’m currently building projects to enhance my skills in **backend development** with `.NET` and **ASP.NET Core`.
+- 🔭 I’m currently building projects to enhance my skills in **Backend Development** with `.NET` and `ASP.NET Core`.
 - 📚 Continuously learning and working on side projects to improve my **Web Development**proficiency.
 
 ### 💡 Fun Facts
 - I love keeping up with the latest **Tech News** and trends in **Hardware**.
-- When I'm not coding, you can find me exploring **New technologies** and **IT solutions**.
+- When I'm not coding, you can find me exploring **New Technologies** and **IT Solutions**.
 
 ### 📫 How to Reach Me
 - Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/hamdy-abdel-moez) or shoot me an email at [hamdy.abdelmoez.eg@gmail.com](mailto:hamdy.abdelmoez.eg@gmail.com).
