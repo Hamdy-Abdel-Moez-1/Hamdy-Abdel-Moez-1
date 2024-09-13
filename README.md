@@ -28,7 +28,7 @@
 
 ### 🚀 Projects
 - 🔭 I’m currently building projects to enhance my skills in **Backend Development** with `.NET` and `ASP.NET Core`.
-- 📚 Continuously learning and working on side projects to improve my **Web Development**proficiency.
+- 📚 Continuously learning and working on side projects to improve my **Web Development** proficiency.
 
 ### 💡 Fun Facts
 - I love keeping up with the latest **Tech News** and trends in **Hardware**.
