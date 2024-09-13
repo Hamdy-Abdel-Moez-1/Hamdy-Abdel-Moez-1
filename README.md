@@ -24,7 +24,7 @@
 - **IT & Troubleshooting**: Basic skills in **IT troubleshooting** and problem-solving for hardware and software issues.
 
 - **Database & System Design**:  
-  Knowledge of **UML**, **system diagrams**, and experience working with **database management**.
+  Knowledge of **UML**, **System Diagrams**, and experience working with **Database Management**.
 
 ### 🚀 Projects
 - 🔭 I’m currently building projects to enhance my skills in **Backend Development** with `.NET` and `ASP.NET Core`.
