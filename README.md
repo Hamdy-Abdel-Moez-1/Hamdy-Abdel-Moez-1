@@ -2,10 +2,10 @@
 
 🎓 I'm a fresh graduate of Business Information Systems (BIS) from Helwan University.  
 💻 Currently diving deep into Backend Web Development using **.NET**.  
-🛠 I have a passion for Technology, and I'm always up to date with the latest **hardware** trends and **tech news**.  
+🛠 I have a passion for Technology, and I'm always up to date with the latest **Hardware** trends and **Tech News**.  
 
 ### 🌱 What I'm Learning
-- **Backend Development** with `.NET` and `ASP.NET Core`
+- **Backend Development** with `.NET`
 - **Programming languages**: C#, C++, SQL, HTML, CSS
 - Gaining hands-on experience in **System Design**, **UML Diagrams**, and **Databases** from my Academic Background.
 
@@ -31,8 +31,8 @@
 - 📚 Continuously learning and working on side projects to improve my **Web Development**proficiency.
 
 ### 💡 Fun Facts
-- I love keeping up with the latest **tech news** and trends in **hardware**.
-- When I'm not coding, you can find me exploring **new technologies** and **IT solutions**.
+- I love keeping up with the latest **Tech News** and trends in **Hardware**.
+- When I'm not coding, you can find me exploring **New technologies** and **IT solutions**.
 
 ### 📫 How to Reach Me
 - Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/hamdy-abdel-moez) or shoot me an email at [hamdy.abdelmoez.eg@gmail.com](mailto:hamdy.abdelmoez.eg@gmail.com).
