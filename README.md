@@ -40,4 +40,4 @@
 ![Hamdy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamdy-Abdel-Moez-1&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamdy-Abdel-Moez-1&layout=compact)
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Hamdy-Abdel-Moez-1.Hamdy-Abdel-Moez-1)
+![Visitor Badge](https://komarev.com/ghpvc/?username=Hamdy-Abdel-Moez-1&color=blue)
